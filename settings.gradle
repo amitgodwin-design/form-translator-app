@@ -1,0 +1,2 @@
+rootProject.name = "FormTranslatorApp"
+include ':app'
